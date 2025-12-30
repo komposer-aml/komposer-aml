@@ -1,4 +1,4 @@
-Pinned repos are repos I've contributed to.
+Pinned repos are OS repos I've contributed to.
 
 ### What I'm up to
 - AI-powered Video Analytics
