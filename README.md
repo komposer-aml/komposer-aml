@@ -1,3 +1,5 @@
+Pinned repos are repos I've contributed to.
+
 ### What I'm up to
 - AI-powered Video Analytics
 - Creative State of Being
