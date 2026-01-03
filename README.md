@@ -9,5 +9,5 @@ Pinned repos are OS repos I've contributed to.
 ## 📬 Connect with Me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/albertml/)
 <br>
-- ✉️ Email: albert@mindcontainer.com, albertml@vigilantview.com
+- ✉️ Email: albert@mindcontainer.com
 - 🚀 I'm very interested in big, cool, and interesting projects! Would love to collaborate!
